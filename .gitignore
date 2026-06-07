@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+outputs/
+outputs_slurm/
+wandb/
+*.out
+*.log
