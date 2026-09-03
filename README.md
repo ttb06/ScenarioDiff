@@ -1,7 +1,8 @@
 # ScenarioDiff
 
-Anonymous implementation of **ScenarioDiff: A Scenario-level Guidance Framework
-for Multimodal Time Series Forecasting**.
+Implementation of our paper **[ScenarioDiff: A Scenario-level Guidance Framework
+for Multimodal Time Series Forecasting](https://arxiv.org/abs/2608.17164)**,
+which is accepted at **ICDM'26**.
 
 ScenarioDiff combines three cached guidance levels with a conditional diffusion
 forecaster:
